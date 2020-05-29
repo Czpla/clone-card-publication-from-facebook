@@ -1,2 +1,2 @@
 # clone-card-publication-from-facebook
-![Alt text](/relative/path/imgs/readme.png?raw=true "Optional Title")
+![Alt text](/clone-card-publication-from-facebook/imgs/readme.png?raw=true "Optional Title")
